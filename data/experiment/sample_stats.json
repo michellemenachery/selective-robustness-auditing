@@ -1,0 +1,26 @@
+{
+  "total_selected": 500,
+  "multi_turn_count": 500,
+  "avg_turns": 30.0,
+  "avg_swappable_values": 4.1,
+  "flow_distribution": {
+    "account_access": 157,
+    "product_defect": 90,
+    "purchase_dispute": 68,
+    "manage_account": 59,
+    "shipping_issue": 50,
+    "order_issue": 40,
+    "subscription_inquiry": 35,
+    "troubleshoot_site": 1
+  },
+  "value_type_distribution": {
+    "personal.customer_name": 499,
+    "personal.username": 321,
+    "order.zip_code": 318,
+    "personal.email": 306,
+    "order.order_id": 297,
+    "personal.account_id": 180,
+    "personal.phone": 126
+  },
+  "subflow_count": 35
+}

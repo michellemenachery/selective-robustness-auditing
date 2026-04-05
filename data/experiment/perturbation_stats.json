@@ -1,0 +1,15 @@
+{
+  "slot_swap_success": 500,
+  "slot_swap_fail": 0,
+  "filler_success": 499,
+  "filler_fail": 1,
+  "greeting_success": 0,
+  "greeting_fail": 0,
+  "combined_a_success": 500,
+  "combined_a_fail": 0,
+  "position_variants": 98,
+  "position_2way": 94,
+  "position_3way": 4,
+  "validation_pass": 0,
+  "validation_fail": 0
+}

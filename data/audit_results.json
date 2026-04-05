@@ -1,0 +1,8 @@
+{
+  "total_train": 8034,
+  "total_dev": 1004,
+  "total_test": 1004,
+  "guideline_matched_with_steps": 0,
+  "slot_swap_candidates": 7412,
+  "multi_turn_slot_candidates": 6594
+}
